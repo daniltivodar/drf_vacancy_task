@@ -1,0 +1,1 @@
+# django_api_vacansy_test_case
