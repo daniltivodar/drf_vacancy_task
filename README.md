@@ -1,1 +1,1 @@
-# django_api_vacansy_test_case
+# drf_vacancy_task
